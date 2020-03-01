@@ -2,6 +2,10 @@
 
 This is a portamento dataset containing portamento annotations.
 
+If you are using the portamento annotation, please cite the following paper:
+
+*Luwei Yang, Khalid Z. Rajab and Elaine Chew. AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles, In Proc. of the 17th International Society for Music Information Retrieval Conference, 2016.*
+
 ## Beijing Opera
 The portamento annotation for Black's Beijing Opera Singing is provided by Luwei Yang (luwei.yang.qm@gmail.com). The original Beijing Opera Singing waveform files can be downloaded [here](http://isophonics.net/SingingVoiceDataset).
 
@@ -13,7 +17,4 @@ If you are using the waveform dataset, please cite the following paper:
 
 There are two recordings for each violin and erhu. 
 
-If you are using the portamento annotation, please cite the following paper:
-
-*Luwei Yang, Khalid Z. Rajab and Elaine Chew. AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles, In Proc. of the 17th International Society for Music Information Retrieval Conference, 2016.*
 
